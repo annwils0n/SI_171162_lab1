@@ -1,0 +1,5 @@
+commit 82d7a6b3549fad64b304706554991ba062dc4cc6 (HEAD -> logs, origin/master, master)
+Author: unknown <Ana.Angjelevska@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:39:04 2019 +0200
+
+    Initial commit
